@@ -1,1 +1,1 @@
-<? echo 'first script'; ?>
+<? echo 'first php script'; ?>
